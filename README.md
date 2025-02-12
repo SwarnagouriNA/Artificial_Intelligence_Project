@@ -13,7 +13,7 @@
   **Q-learning** aims to find the best action to take in a given state, in order to maximize the reward.
       Q-learning is 'model-free', 'off-policy'and uses Q-table to select correct actions.
 
-  Two approaches for action selection policy: **Exploration** and **Exploitation**
+  Two approaches for **action selection policy**: **Exploration** and **Exploitation**
   
   **Temporal Difference** is a concept that focuses on difference an agent experience over time. it is model-free learning technique used to predict the total reward expected in the future.
 
